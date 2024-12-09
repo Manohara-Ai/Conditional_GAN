@@ -33,7 +33,7 @@ This flexibility makes the Conditional GAN a versatile tool for a range of image
 
 ## Getting Started
 
-To get started with the project, follow these steps:
+To get started with the project, install these packages:
 
 ### Prerequisites
 
